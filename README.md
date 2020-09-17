@@ -16,5 +16,9 @@
 <code><img src="https://user-images.githubusercontent.com/71013521/93352044-b5cb1b80-f83a-11ea-8224-9495bd3db87e.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/71013521/93352127-cb404580-f83a-11ea-837d-5235276563b6.png" height="30"></code>
 
+### Other Tools
+<code><img src="https://user-images.githubusercontent.com/71013521/93489813-13796980-f908-11ea-98d4-8e226c6b419d.png" height="30"></code>
+<code><img src="https://user-images.githubusercontent.com/71013521/93490026-415eae00-f908-11ea-8bca-29563cc204a1.png" height="30"></code>
+
 ### Learning
 <code><img src="https://user-images.githubusercontent.com/71013521/93351393-faa28280-f839-11ea-95dd-222b1bffde4b.png" height="30"></code>
