@@ -12,6 +12,9 @@
   <code><img src="https://user-images.githubusercontent.com/71013521/93351765-62f16400-f83a-11ea-8d39-17ebcb0201bc.png" height="30"></code>
 </ul>
 
+### Databases
+<code><img src="https://user-images.githubusercontent.com/71013521/93671111-9503ff80-faa0-11ea-99cd-6af498a65d16.png" height="30"></code>
+
 ### Cloud/Dev-Ops
 <code><img src="https://user-images.githubusercontent.com/71013521/93352044-b5cb1b80-f83a-11ea-8224-9495bd3db87e.png" height="30"></code>
 <code><img src="https://user-images.githubusercontent.com/71013521/93352127-cb404580-f83a-11ea-837d-5235276563b6.png" height="30"></code>
