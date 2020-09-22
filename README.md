@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github!
 
-![](https://komarev.com/ghpvc/?username=Keanin-Cupido&color=lightgrey&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Keanin-Cupido&color=yellow&style=flat-square)
 
 ### Languages
 <code><img src="https://user-images.githubusercontent.com/71013521/93351006-8071fe00-f839-11ea-9186-701027f8f86d.png" height="30"></code>
