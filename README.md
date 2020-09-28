@@ -29,6 +29,3 @@
 > <code><img src="https://user-images.githubusercontent.com/71013521/93351393-faa28280-f839-11ea-95dd-222b1bffde4b.png" height="30"></code>
 
 ___
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Keanin-Cupido)](https://github.com/LordDashMe/github-contribution-stats/)
--
