@@ -1,9 +1,5 @@
 ## Hi there 👋 Welcome to my Github!
 
-![](https://komarev.com/ghpvc/?username=Keanin-Cupido&color=yellow&style=flat-square)
-
-<img border="0" width="40%" height="164" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keanin-Cupido&layout=compact" />
-
 ### Languages
 > <code><img src="https://user-images.githubusercontent.com/71013521/93351006-8071fe00-f839-11ea-9186-701027f8f86d.png" height="20"></code>
 > <code><img src="https://user-images.githubusercontent.com/71013521/93351060-8b2c9300-f839-11ea-9a05-45e1ef4e4060.png" height="20"></code>
