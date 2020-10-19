@@ -1,29 +1,24 @@
 ## Hi there 👋 Welcome to my Github!
+![Profile views](https://gpvc.arturio.dev/Keanin-Cupido?style=for-the-badge&logo)
 
 ### Languages
-> <code><img src="https://user-images.githubusercontent.com/71013521/93351006-8071fe00-f839-11ea-9186-701027f8f86d.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/93351060-8b2c9300-f839-11ea-9a05-45e1ef4e4060.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/93351068-8d8eed00-f839-11ea-8d83-d012761dc034.png" height="20"></code>
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&logo=python)
+![C](https://img.shields.io/badge/-C-0077B5?style=for-the-badge&logoColor=white&logo=c)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logoColor=white&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=for-the-badge&logoColor=white&logo=javascript)
 
 ### Web Development
->  Frontend/UI:
->
->  <code><img src="https://user-images.githubusercontent.com/71013521/93351759-5ff67380-f83a-11ea-811a-b5e1085ede2d.png" height="20"></code>
->  <code><img src="https://user-images.githubusercontent.com/71013521/93351765-62f16400-f83a-11ea-8d39-17ebcb0201bc.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/94803910-47658c00-03ea-11eb-953d-2dc6817fb10c.png" height="20"></code>
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=for-the-badge&logoColor=white&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-196eff?style=for-the-badge&logoColor=white&logo=css3)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logoColor=06F9FF&logo=react)
 
 ### Databases
-> <code><img src="https://user-images.githubusercontent.com/71013521/93671111-9503ff80-faa0-11ea-99cd-6af498a65d16.png" height="20"></code>
-
-### Cloud/Dev-Ops
-> <code><img src="https://user-images.githubusercontent.com/71013521/93352044-b5cb1b80-f83a-11ea-8224-9495bd3db87e.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/93352127-cb404580-f83a-11ea-837d-5235276563b6.png" height="20"></code>
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logoColor=white&logo=mysql)
 
 ### Other Tools
-> <code><img src="https://user-images.githubusercontent.com/71013521/93489813-13796980-f908-11ea-98d4-8e226c6b419d.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/93490026-415eae00-f908-11ea-8bca-29563cc204a1.png" height="20"></code>
+![Git](https://img.shields.io/badge/-Git-brown?style=for-the-badge&logoColor=white&logo=git)
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logoColor=white&logo=github)
+![Netbeans](https://img.shields.io/badge/-Netbeans-blue?style=for-the-badge&logoColor=white&logo=netbeans)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logoColor=white&logo=vscode)
 
-### Learning
-> <code><img src="https://user-images.githubusercontent.com/71013521/93490875-525bef00-f909-11ea-988e-2bcc748c48e7.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/94802205-85ad7c00-03e7-11eb-8153-b9b94a71e6dc.png" height="20"></code>
-> <code><img src="https://user-images.githubusercontent.com/71013521/93351393-faa28280-f839-11ea-95dd-222b1bffde4b.png" height="20"></code>
+![My github stats](https://github-readme-stats.vercel.app/api?username=Keanin-Cupido&show_icons=false)
