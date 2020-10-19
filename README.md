@@ -1,8 +1,6 @@
 ## Hi there 👋 Welcome to my Github!
 ![Profile views](https://gpvc.arturio.dev/Keanin-Cupido?style=for-the-badge&logo)
 
-<img align='right' src='https://user-images.githubusercontent.com/71013521/96518784-e0f6bf80-126b-11eb-92c7-8f4bc361e025.gif' width='400"'>
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&logo=python)
 ![C](https://img.shields.io/badge/-C-0077B5?style=for-the-badge&logoColor=white&logo=c)
