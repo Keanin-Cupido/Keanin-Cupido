@@ -7,13 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@keanin-cupido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@keanin-cupido" height="30" width="40" /></a>
+<a href="https://codepen.io/keanin-cupido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@keanin-cupido" height="30" width="40" /></a>
 <a href="https://dev.to/keanincupido_82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="keanincupido_82" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keanin cupido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keanin cupido" height="30" width="40" /></a>
-<a href="https://instagram.com/@__kiepie__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__kiepie__" height="30" width="40" /></a>
-<a href="https://dribbble.com/keanin cupido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="keanin cupido" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keanin-cupido-63915015b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keanin cupido" height="30" width="40" /></a>
+<a href="https://instagram.com/__kiepie__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__kiepie__" height="30" width="40" /></a>
+<a href="https://dribbble.com/kiepie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="keanin cupido" height="30" width="40" /></a>
 <a href="https://www.behance.net/keanin cupido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="keanin cupido" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kc cupido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kc cupido" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC9p3AaB6b4qkmLXDz9mpyrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kc cupido" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
