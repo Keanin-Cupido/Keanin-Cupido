@@ -1,5 +1,4 @@
 ## Hi there 👋 Welcome to my Github!
-![Profile views](https://gpvc.arturio.dev/Keanin-Cupido?style=for-the-badge&logo)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logoColor=white&logo=python)
@@ -20,5 +19,3 @@
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logoColor=white&logo=github)
 ![Netbeans](https://img.shields.io/badge/-Netbeans-blue?style=for-the-badge&logoColor=white&logo=netbeans)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logoColor=white&logo=vscode)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Keanin-Cupido&show_icons=false)
