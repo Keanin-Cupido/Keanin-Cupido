@@ -14,14 +14,16 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in f
 <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="16"/> **GraphQL:** Query language for APIs, providing a more efficient and flexible alternative to REST.  
 <img src="https://socket.io/images/logo-dark.svg" alt="socketio" width="16"/> **Socket.IO:** Real-time bi-directional communication between web clients and servers.
 
-#### Databases:<img src="" alt="tailwind" width="16"/>
+#### Databases:
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb" width="16"/> **MongoDB:** NoSQL database for flexible and scalable data storage.  
 <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="16"/> **Supabase, <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" width="16"/> Firebase:** Utilizing cloud-based databases for real-time applications and user authentication.
 
 ### 🛠️ Tools
-**Postman:** Testing and debugging APIs with ease.  
-**Docker, Kubernetes:** Containerizing applications and managing orchestration for seamless deployment and scalability.  
-**Git, GitHub:** Version control and collaboration for efficient development workflows.
+<img src="	https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="16"/> **Postman:** Testing and debugging APIs with ease.  
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png
+" alt="docker" width="16"/> **Docker, <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png
+" alt="kubernetes" width="16"/>Kubernetes:** Containerizing applications and managing orchestration for seamless deployment and scalability.  
+<img src="	https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="16"/> **Git, <img src="	https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="16"/> GitHub:** Version control and collaboration for efficient development workflows.
 
 ### 🌱 Always Learning
 I'm continuously exploring new technologies and improving my skills to stay up-to-date with the latest trends in web development. Whether it's diving into new frameworks or mastering advanced concepts, I'm committed to lifelong learning.
