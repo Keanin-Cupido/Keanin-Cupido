@@ -16,6 +16,12 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in f
 <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="16"/> **GraphQL:** Query language for APIs, providing a more efficient and flexible alternative to REST.  
 <img src="https://socket.io/images/logo-dark.svg" alt="socketio" width="16"/> **Socket.IO:** Real-time bi-directional communication between web clients and servers.
 
+#### 🌐 Other Programming Languages
+<img width="16" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/> **TypeScript:** Superset of JavaScript that adds static typing and other features for large-scale application development.  
+<img width="16" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/> **C:** General-purpose programming language often used for system programming and embedded development.  
+<img width="16" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> **Python:** Versatile language known for its simplicity and readability, used for web development, data analysis, artificial intelligence, and more.  
+<img width="16" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/> **Rust:** Systems programming language focused on performance, memory safety, and concurrency without sacrificing safety.
+
 #### Databases:
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongodb" width="16"/> **MongoDB:** NoSQL database for flexible and scalable data storage.  
 <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="16"/> **Supabase, <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" width="16"/> Firebase:** Utilizing cloud-based databases for real-time applications and user authentication.
