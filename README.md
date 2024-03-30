@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in f
 
 ### 🛠️ Tools
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="16"/> **Postman:** Testing and debugging APIs with ease.  
-<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="16"/> **Docker, <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="kubernetes" width="16"/>Kubernetes:** Containerizing applications and managing orchestration for seamless deployment and scalability.  
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" width="16"/> **Docker, <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="kubernetes" width="16"/> Kubernetes:** Containerizing applications and managing orchestration for seamless deployment and scalability.  
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="16"/> **Git, <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="16"/> GitHub:** Version control and collaboration for efficient development workflows.
 
 ### 🌱 Always Learning
