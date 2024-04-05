@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in f
 #### _Backend:_
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node" width="16"/> **Node.js:** Leveraging JavaScript on the server side for efficient backend development.  
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="16"/> **Express.js:** Building robust and scalable APIs with ease.  
-<img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="16"/> **GraphQL:** Query language for APIs, providing a more efficient and flexible alternative to REST.  
-<img src="https://socket.io/images/logo-dark.svg" alt="socketio" width="16"/> **Socket.IO:** Real-time bi-directional communication between web clients and servers.
+<img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="16"/> **GraphQL:** Query language for APIs, providing a more efficient and flexible alternative to REST.
 
 #### _Other Programming Languages:_
 <img width="16" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/> **TypeScript:** Superset of JavaScript that adds static typing and other features for large-scale application development.  
