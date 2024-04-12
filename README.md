@@ -37,7 +37,7 @@ I'm continuously exploring new technologies and improving my skills to stay up-t
 ### 📫 Let's Connect!
 Interested in collaborating or discussing potential projects? Feel free to reach out to me through the following channels:  
 📧 **Email:** iamkeanincupido@gmail.com  
-💼 **LinkedIn:**  
+💼 **LinkedIn:**
 🐦 **Twitter:** @kc__cupido
 
-Looking forward to connecting with you! Let's create something awesome together! 🚀
+Looking forward to connecting with you! Let's create something awesome together!!! 🚀
