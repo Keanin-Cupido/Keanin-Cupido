@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with expertise in f
 <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="16"/> **Tailwind, <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="sass" width="16"/> SASS:** Streamlining UI development with utility-first CSS frameworks and preprocessor for styling.  
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="16"/> **React.js:** Crafting dynamic and interactive user interfaces.  
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="next" width="16"/> **Next.js:** Building powerful and scalable web applications with server-side rendering and routing.  
-<img width="16" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/> **Bootstrap:** Rapidly design and customize responsive web interfaces with ease.
+<img width="16" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/> **Bootstrap:** Rapidly design and customize responsive web interfaces with ease.  
+<img width="16" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc" alt="Astro" title="Astro"/> **Astro:** A modern static site generator that allows you to build websites with your favorite JS framework and automatically optimizes performance by shipping only what's needed to the browser.
 
 
 #### _Backend:_
