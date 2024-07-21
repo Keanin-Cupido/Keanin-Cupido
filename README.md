@@ -5,15 +5,15 @@ backend technologies, databases, and a range of tools to streamline development.
 ### 🚀 Technologies
 #### _Frontend:_
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap)]()  
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react)]()  
 **React.js:** Crafting dynamic and interactive user interfaces.  
 
-[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=next)]()  
 **Next.js:** Building powerful and scalable web applications with server-side rendering and routing.  
 
-[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=astro)]()  
 **Astro:** A modern static site generator that allows you to build websites with your favorite JS framework and automatically optimizes performance by shipping only what's needed to the browser.
 
 #### _Backend:_
